@@ -1,0 +1,10 @@
+Starting Microsoft Python language server.
+[Info  - 3:13:31 PM] GetCurrentSearchPaths /usr/bin/python3 
+[Info  - 3:13:31 PM] Python search paths:
+[Info  - 3:13:31 PM]     /usr/lib/python3.6
+[Info  - 3:13:31 PM]     /usr/lib/python3.6/lib-dynload
+[Info  - 3:13:31 PM]     /usr/local/lib/python3.6/dist-packages
+[Info  - 3:13:31 PM]     /usr/lib/python3/dist-packages
+[Info  - 3:13:31 PM] Configuration search paths:
+[Info  - 3:13:32 PM] Microsoft Python Language Server version 0.2.74.0
+[Info  - 3:13:32 PM] Initializing for /usr/bin/python3

@@ -1,0 +1,33 @@
+{
+    "window.zoomLevel": 0,
+    "java.home": "/usr/lib/jvm/java-1.8.0-openjdk-amd64",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.copyOnSelection": true,
+    "breadcrumbs.enabled": true,
+    "workbench.iconTheme": "vscode-icons",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j","j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.leader": "<space>",
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before":["<C-n>"],
+            "commands": [
+                ":nohl",
+            ]
+        },
+        {
+            "before": ["leader", "w"],
+            "commands": [
+                "workbench.action.files.save",
+            ]
+        }
+    ],
+    "python.jediEnabled": false,
+    "workbench.colorTheme": "Solarized Dark"
+}

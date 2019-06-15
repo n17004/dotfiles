@@ -1,0 +1,30 @@
+[2019-05-23 15:13:20.812] [exthost] [info] extension host started
+[2019-05-23 15:13:20.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-05-23 15:13:20.853] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/python/out/pythonMain
+[2019-05-23 15:13:20.882] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-05-23 15:13:20.882] [exthost] [info] ExtensionService#loadCommonJSModule /home/hara/.vscode/extensions/ms-python.python-2019.4.12954/out/client/extension
+[2019-05-23 15:13:21.422] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-05-23 15:13:21.422] [exthost] [info] ExtensionService#loadCommonJSModule /home/hara/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.6/dist/intellicode
+[2019-05-23 15:13:21.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-05-23 15:13:21.579] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-05-23 15:13:21.626] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-05-23 15:13:21.626] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-05-23 15:13:21.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-05-23 15:13:21.670] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-05-23 15:13:22.190] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-05-23 15:13:22.190] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-05-23 15:13:22.223] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-05-23 15:13:22.223] [exthost] [info] ExtensionService#loadCommonJSModule /home/hara/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-05-23 15:13:22.296] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-05-23 15:13:22.296] [exthost] [info] ExtensionService#loadCommonJSModule /home/hara/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2019-05-23 15:13:22.743] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"activationEvent":"*"}
+[2019-05-23 15:13:22.743] [exthost] [info] ExtensionService#loadCommonJSModule /home/hara/.vscode/extensions/ionutvmi.path-autocomplete-1.13.3/out/src/extension
+[2019-05-23 15:13:22.777] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces {"startup":true,"activationEvent":"*"}
+[2019-05-23 15:13:22.777] [exthost] [info] ExtensionService#loadCommonJSModule /home/hara/.vscode/extensions/shardulm94.trailing-spaces-0.3.1/out/src/extension
+[2019-05-23 15:13:22.810] [exthost] [info] ExtensionService#_doActivateExtension SirTori.indenticator {"startup":true,"activationEvent":"*"}
+[2019-05-23 15:13:22.810] [exthost] [info] ExtensionService#loadCommonJSModule /home/hara/.vscode/extensions/sirtori.indenticator-0.6.0/out/src/extension
+[2019-05-23 15:13:22.829] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-05-23 15:13:22.829] [exthost] [info] ExtensionService#loadCommonJSModule /home/hara/.vscode/extensions/vscode-icons-team.vscode-icons-8.6.0/out/src/
+[2019-05-23 15:13:23.099] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2019-05-23 15:13:23.099] [exthost] [info] ExtensionService#loadCommonJSModule /home/hara/.vscode/extensions/vscodevim.vim-1.8.0/out/extension
+[2019-05-23 15:13:24.931] [exthost] [info] eager extensions activated

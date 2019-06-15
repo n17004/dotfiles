@@ -1,0 +1,12 @@
+[2019-05-20 00:25:49.385] [sharedprocess] [info] main {"machineId":"7beb72c5e35cd2ceeb08b0d4609e4ea8982a674edd8639fde3fff83f80dae605"}
+[2019-05-20 00:25:50.771] [sharedprocess] [info] Scanned user extensions: 20
+[2019-05-20 00:25:51.353] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-20 00:25:52.668] [sharedprocess] [info] Scanned user extensions: 20
+[2019-05-20 00:25:52.687] [sharedprocess] [info] Scanned system extensions: 72
+[2019-05-20 00:25:54.536] [sharedprocess] [info] Scanned user extensions: 20
+[2019-05-20 00:26:29.402] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-05-20 00:26:29.404] [sharedprocess] [info] Skipping directory 059c567836fbcb1856c155d941ac89da.ja. Language pack still in use.
+[2019-05-20 00:30:54.577] [sharedprocess] [info] Scanned user extensions: 20
+[2019-05-20 00:35:54.617] [sharedprocess] [info] Scanned user extensions: 20
+[2019-05-20 00:40:54.653] [sharedprocess] [info] Scanned user extensions: 20
+[2019-05-20 00:45:54.689] [sharedprocess] [info] Scanned user extensions: 20

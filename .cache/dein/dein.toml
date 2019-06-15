@@ -1,0 +1,26 @@
+# dein
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+# 後から括弧付けたり消したり
+[[plugins]]
+repo = 'machakann/vim-sandwich'
+
+# ステータスラインを鮮やかに
+[[plugins]]
+repo = 'itchyny/lightline.vim'
+hook_add = '''
+let g:lightline = {
+\ 'colorscheme': 'seoul256',
+\ }
+'''
+
+# 括弧を自動補完
+[[plugins]]
+repo = 'cohama/lexima.vim'
+
+# 自動補完
+[[plugins]]
+repo = 'Shougo/deoplete.nvim'
+hook_add = 'let g:deoplete#enable_at_startup = 1'
+

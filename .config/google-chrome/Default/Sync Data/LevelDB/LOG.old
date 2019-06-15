@@ -1,0 +1,21 @@
+2019/05/30-21:30:19.484 7b4 Reusing MANIFEST /home/hara/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/05/30-21:30:19.529 7b4 Recovering log #182
+2019/05/30-21:30:20.570 7b4 Reusing old log /home/hara/.config/google-chrome/Default/Sync Data/LevelDB/000182.log 
+2019/05/30-21:47:32.422 933 Level-0 table #186: started
+2019/05/30-21:47:32.623 933 Level-0 table #186: 115326 bytes OK
+2019/05/30-21:47:32.724 933 Delete type=0 #182
+2019/05/30-21:47:32.724 933 Compacting 4@0 + 1@1 files
+2019/05/30-21:47:32.794 933 Generated table #187@0: 1736 keys, 283323 bytes
+2019/05/30-21:47:32.794 933 Compacted 4@0 + 1@1 files => 283323 bytes
+2019/05/30-21:47:32.873 933 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/05/30-21:47:32.874 933 Delete type=2 #180
+2019/05/30-21:47:32.895 933 Delete type=2 #186
+2019/05/30-21:47:32.895 933 Delete type=2 #175
+2019/05/30-21:47:32.912 933 Delete type=2 #177
+2019/05/30-21:47:32.913 933 Delete type=2 #183
+2019/05/30-22:41:01.382 933 Level-0 table #189: started
+2019/05/30-22:41:01.483 933 Level-0 table #189: 107303 bytes OK
+2019/05/30-22:41:01.519 933 Delete type=0 #185
+2019/05/30-22:57:45.498 933 Level-0 table #191: started
+2019/05/30-22:57:45.561 933 Level-0 table #191: 110977 bytes OK
+2019/05/30-22:57:45.709 933 Delete type=0 #188

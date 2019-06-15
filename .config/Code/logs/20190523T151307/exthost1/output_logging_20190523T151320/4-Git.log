@@ -1,0 +1,4 @@
+次の場所で Git を検索しています: git
+git から Git 2.17.1 を使用しています
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
