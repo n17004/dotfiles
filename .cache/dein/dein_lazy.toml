@@ -12,3 +12,6 @@ let g:user_emmet_leader_key='<c-f>'
 [[plugins]]
 repo = 'deoplete-plugins/deoplete-zsh'
 on_ft = ['sh']
+
+[[plugins]]
+repo = 'previm/previm'

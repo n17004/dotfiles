@@ -48,14 +48,21 @@ nnoremap <Leader>w :w<CR>
 nnoremap <Leader>q :q!<CR>
 " markdown時ヴィジュアルモードでURLを選択するとリンクを生成
 vnoremap <leader>mdu ygvs[](<c-r>")<esc>?[]<cr>a
+" NERDTreeでIDE風
+map <silent> <leader>e :NERDTreeToggle<cr>
+
 "------------------
+
+let g:markdown_fenced_languages = [
+			\ 'css',
+			\]
 
 "dein Scripts-----------------------------
 if &compatible
   set nocompatible               " Be iMproved
 endif
 
-" dirset in install
+" dirset install
 let s:dein_dir = expand('~/.cache/dein')
 
 " dein.vim_dir
