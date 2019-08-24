@@ -24,3 +24,28 @@ repo = 'cohama/lexima.vim'
 repo = 'Shougo/deoplete.nvim'
 hook_add = 'let g:deoplete#enable_at_startup = 1'
 
+# その場で実行できる
+[[plugins]]
+repo = 'thinca/vim-quickrun'
+
+[[plugins]]
+repo = 'Shougo/denite.nvim'
+
+#[[plugins]]
+#repo = 'autozimu/LanguageClient-neovim'
+#rev = 'next'
+#hook_post_update = 'call hook#post_update#language_client_neovim#load()'
+#hook_add = 'call hook#add#language_client_neovim#load()'
+#
+#[[plugins]]
+#repo = 'w0rp/ale'
+#hook_add = 'call hook#add#ale#load()'
+#
+#[[plugins]]
+#repo = 'Chiel92/vim-autoformat'
+## プラグイン読み込み時のコールバック
+#hook_add = 'call hook#add#vim_autoformat#load()'
+## プラグインアップデート時のコールバック
+#hook_post_update = 'call hook#post_update#vim_autoformat#load()'
+
+

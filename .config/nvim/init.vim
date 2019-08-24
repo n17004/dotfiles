@@ -46,7 +46,8 @@ let mapleader = "\<Space>"
 nnoremap <Leader>w :w<CR>
 "Space qで閉じる
 nnoremap <Leader>q :q!<CR>
-
+" markdown時ヴィジュアルモードでURLを選択するとリンクを生成
+vnoremap <leader>mdu ygvs[](<c-r>")<esc>?[]<cr>a
 "------------------
 
 "dein Scripts-----------------------------
